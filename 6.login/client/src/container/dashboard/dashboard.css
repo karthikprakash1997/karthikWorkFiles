@@ -1,0 +1,29 @@
+.Dashboard{
+    
+
+    margin: 20px auto;
+    width: 40%;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.Dashboard2{
+
+    margin: 20px auto;
+    width: 40%;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+
+.Dashboard3{
+    display: flex;
+    justify-content:center;
+    margin-top: 200px;
+    
+}

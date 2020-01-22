@@ -1,0 +1,30 @@
+.red{
+    color: red;
+  }
+
+  .font{
+    font-weight: bold;
+  }
+
+  /*all the  buttons in the app class will usw the above code*/
+
+.button{
+    
+    background-color: blue;
+    border : 1px;
+    padding : 8px;
+    font : inherit;
+  }
+  
+  .button:hover {
+  
+    background-color: seagreen;
+  
+  }
+  
+  .button.Blue{
+  background-color: red;
+  }
+  .button.Blue:hover{
+    background-color: slateblue;
+  }
